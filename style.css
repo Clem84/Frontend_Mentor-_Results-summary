@@ -1,7 +1,7 @@
 #result{
     text-align: center;
     width: 360px;
-    height: 900px;
+    height: 600px;
     background: linear-gradient(to bottom left,hsl(252, 100%, 67%),hsl(241, 81%, 54%));
     border-radius: 20px;
     color:hsl(0, 0%, 100%);
@@ -64,7 +64,7 @@ section{
 #summary{
     display: flex;
     width: 360px;
-    height: 900px;
+    height: 600px;
     flex-direction: column;
     align-items: center;
     box-shadow: 10px 25px 25px  hsla(241, 81%, 54%, 0.096);
