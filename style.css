@@ -50,7 +50,7 @@ section{
     font-weight: 600
 }
 #great{
-    font-family: 'Hanken Grotesk Medium';
+    font-family: 'Hanken Grotesk', Medium;
     margin-bottom: 20px;
     font-size: 30px
 }
