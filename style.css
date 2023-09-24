@@ -15,7 +15,7 @@ section{
     position: absolute;
     width: 100%;
     height: 100%;
-    font-family: Hanken Grotesk;
+    font-family: 'Hanken Grotesk';
     
 }
 *{
@@ -25,7 +25,7 @@ section{
     color: hsl(241, 100%, 89%);
     margin-top: 30px;
     margin-bottom: 30px;
-    font-family: Hanken Grotesk Medium;
+    font-family: 'Hanken Grotesk Medium';
 
 }
 #circle{
@@ -41,7 +41,7 @@ section{
     margin-bottom: 40px;
 }   
 #number{
-    font-family: Hanken Grotesk ExtraBold;
+    font-family: 'Hanken Grotesk ExtraBold';
     font-size: 3.5em
 }
 #of{
@@ -50,7 +50,7 @@ section{
     font-weight: 600
 }
 #great{
-    font-family: Hanken Grotesk Medium;
+    font-family: 'Hanken Grotesk Medium';
     margin-bottom: 20px;
     font-size: 30px
 }
@@ -85,7 +85,7 @@ button{
     width: 81%;
     height: 10%;
     margin-left: 10px;
-    font-family: Hanken Grotesk Medium;
+    font-family: 'Hanken Grotesk Medium';
     font-size: 0.8em;
     margin-top: 20px
 }
@@ -113,14 +113,14 @@ li{
     height: 50px;
     margin-bottom: 20px;
     align-items: center;
-    font-family: Hanken Grotesk ExtraBold;
+    font-family: 'Hanken Grotesk ExtraBold';
     font-size: 15px;
 }
 #sum{
     align-self: flex-start;
     margin-left: 45px;
     color: hsl(224, 30%, 27%);
-    font-family: Hanken Grotesk ExtraBold;
+    font-family: 'Hanken Grotesk ExtraBold';
     font-size: 1.1em;
     margin-top: 30px;
     margin-bottom: 30px
